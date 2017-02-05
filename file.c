@@ -3,7 +3,7 @@
 void Foo1()
 {
 	printf("foo1\n");
-	printf("conflict1\n");
+	printf("conflict2\n");
 }
 
 void Foo2()
